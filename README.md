@@ -5,7 +5,7 @@ Report focuses on North America (2000–2009), with charts, regional comparisons
 
 ## Files
 - **gaming_sales_trends.pdf** — Final written report with charts, predictions, and conclusions.
-- **gaming_sales.xlsx** — Excel workbook containing the dataset (1980–2020) and analysis.
+- **game_sales.xlsx** — Excel workbook containing the dataset (1980–2020) and analysis.
 
 ## Tools
 - Microsoft Excel for data analysis and visualization
